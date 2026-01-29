@@ -8,8 +8,8 @@ This project demonstrates the ability to transform raw data into actionable busi
 ---
 
 ### 📸 Dashboard Preview
-![Dashboard Screenshot].<img width="1366" height="768" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/10065c7b-f77b-4890-9f48-259fd7a8bb43" />
-png)
+<img width="1366" height="768" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/10065c7b-f77b-4890-9f48-259fd7a8bb43" />
+
 
 
 ---
