@@ -8,8 +8,9 @@ This project demonstrates the ability to transform raw data into actionable busi
 ---
 
 ### 📸 Dashboard Preview
-![Dashboard Screenshot](price_monitor_screenshot.png)
-*(Note: Replace this text with your actual screenshot after uploading)*
+![Dashboard Screenshot].<img width="1366" height="768" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/10065c7b-f77b-4890-9f48-259fd7a8bb43" />
+png)
+
 
 ---
 
@@ -48,6 +49,6 @@ If you want to test the dashboard locally:
 
 ### 👨‍💻 Author
 **Lee-roy B.**
-*Python Automation Specialist & Data Analyst*
+
 * [LinkedIn Profile](https://www.linkedin.com/in/lee-roy-chimuka)
 * [Fiverr Profile](https://www.fiverr.com/leeroybreat)
